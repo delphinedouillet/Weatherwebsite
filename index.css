@@ -1,0 +1,42 @@
+.navbar-default .navbar-brand {
+    background-color: #008080;
+    font-family: 'Arial Narrow Bold';
+    font-size: 20px;
+}
+
+.navbar-default .container-fluid .navbar-brand {color:white;}
+
+
+.navbar-header{
+    width:400px;
+    margin-left:75px;
+}
+
+.box{
+    padding: 10px;
+    background: white;
+    margin-top:50px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:20px;
+    align-content: center;
+  }
+
+
+.page-header h1 {color:#008080; padding:20px;}
+
+.category {font-size: 20px;
+    line-height: 200%;}
+
+.box #Fig1 {border-style: solid;
+    border-color: #008080;
+padding-top:70px;
+padding-bottom: 70px;}
+
+.img {padding-bottom:20px;}
+
+.title {color:#008080;}
+
+.row h2 {color:#008080;
+    text-indent: 100px;}
+
